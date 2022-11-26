@@ -5,55 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d9dd5d0-c7f3-4572-b292-0da7e0cae7ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/JavaAcademyJetBrains.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/JavaAcademyJetBrains.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/JavaAcademyJetBrains.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/JavaAcademyJetBrains.Cinema_Room_Manager-task-build-generated-sources-headers-java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/JavaAcademyJetBrains.Cinema_Room_Manager-task-build-generated-sources-headers-java.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/JavaAcademyJetBrains.Cinema_Room_Manager-task-build-generated-sources-headers-java.test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Arrangement/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Arrangement/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Errors/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Errors/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Menu, please/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Menu, please/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Sold/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Sold/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Tickets/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Tickets/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/test/CinemaTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/test/CinemaTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/The sign of a number/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/The sign of a number/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Create cube/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Create cube/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Multidimensional array features/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Multidimensional array features/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Swap the columns/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Swap the columns/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Symmetric matrix/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Symmetric matrix/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/The star figure/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/The star figure/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/Direction/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/Direction/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/From string to a number/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/From string to a number/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/Removing breaks/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/Removing breaks/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/Test learners/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/Test learners/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/The mystery of switch statement/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/The mystery of switch statement/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/The main method/Print  Hello, Java/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The main method/Print  Hello, Java/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/The main method/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The main method/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/The main method/Who is the main/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The main method/Who is the main/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +122,7 @@
       <workItem from="1669297825370" duration="7590000" />
       <workItem from="1669381352606" duration="6461000" />
       <workItem from="1669468839995" duration="2157000" />
-      <workItem from="1669477306793" duration="588000" />
+      <workItem from="1669477306793" duration="958000" />
     </task>
     <servers />
   </component>
