@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d9dd5d0-c7f3-4572-b292-0da7e0cae7ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Cinema Room Manager/task/src/cinema/Cinema.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Topics/Declaring a method/The sign of a number/src/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/src/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Topics/Switch statement/From string to a number/src/Main.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -122,7 +121,7 @@
       <workItem from="1669297825370" duration="7590000" />
       <workItem from="1669381352606" duration="6461000" />
       <workItem from="1669468839995" duration="2157000" />
-      <workItem from="1669477306793" duration="958000" />
+      <workItem from="1669477306793" duration="2353000" />
     </task>
     <servers />
   </component>
