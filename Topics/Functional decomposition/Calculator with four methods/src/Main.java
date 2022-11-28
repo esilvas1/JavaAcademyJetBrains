@@ -1,14 +1,14 @@
 class SimpleCalculator {
 
     // Implement your methods here
-    public static void subtractTwoNumbers (long a, long b) {
+    public static void subtractTwoNumbers(long a, long b) {
         long substract = 0;
         substract = a - b;
         System.out.println(substract);
     }
 
 
-    public static void sumTwoNumbers (long a, long b) {
+    public static void sumTwoNumbers(long a, long b) {
         long sum = 0;
         sum = a +  b;
         System.out.println(sum);
@@ -16,18 +16,18 @@ class SimpleCalculator {
 
 
 
-    public static void divideTwoNumbers (long a, long b) {
+    public static void divideTwoNumbers(long a, long b) {
         long divede = 0;
         if (b == 0) {
             System.out.println("Division by 0!");
         } else {
-            divede = a/b;
+            divede = a / b;
             System.out.println(divede);
         }
     }
 
 
-    public static void multiplyTwoNumbers (long a, long b) {
+    public static void multiplyTwoNumbers(long a, long b) {
         long product = 0;
         product = a * b;
         System.out.println(product);
