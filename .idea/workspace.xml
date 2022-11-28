@@ -8,10 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +31,7 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Developer" type="f1a62948:ProjectNode" />
+                <item name="JavaAcademyJetBrains" type="f1a62948:ProjectNode" />
               </path>
             </expand>
             <select />
@@ -55,6 +52,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Cinema Room Manager/task/src/cinema/Cinema.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Topics/Arrays as parameters/Adding values/src/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements/src/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Topics/Declaring a method/The sign of a number/src/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/src/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/src/Main.java" root0="SKIP_INSPECTION" />
@@ -128,7 +127,7 @@
       <workItem from="1669381352606" duration="6461000" />
       <workItem from="1669468839995" duration="2157000" />
       <workItem from="1669477306793" duration="3434000" />
-      <workItem from="1669509231565" duration="3747000" />
+      <workItem from="1669509231565" duration="6739000" />
     </task>
     <servers />
   </component>
