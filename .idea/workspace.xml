@@ -4,60 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d9dd5d0-c7f3-4572-b292-0da7e0cae7ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Arrangement/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Arrangement/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Errors/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Errors/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Menu, please/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Menu, please/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Menu, please/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Menu, please/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Sold/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Sold/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Tickets/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Tickets/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/The declaration of the sumAll method/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/The declaration of the sumAll method/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs method invocation/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs method invocation/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/Find the max of three numbers/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/The sign of a number/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/The sign of a number/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Declaring a method/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Declaring a method/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/How to improve a compound program/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/How to improve a compound program/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Roots of quadratic equation/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Roots of quadratic equation/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Create cube/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Create cube/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Getting an element from a 3D array/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Indexing rules/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Multidimensional array features/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Multidimensional array features/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Practical applications/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Printing lengths of nested arrays/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Swap the columns/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Swap the columns/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Symmetric matrix/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Symmetric matrix/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/The star figure/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/The star figure/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Multidimensional array/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/Direction/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/Direction/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/From string to a number/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/From string to a number/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/Removing breaks/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/Removing breaks/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/Test learners/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/Test learners/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/The mystery of switch statement/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/The mystery of switch statement/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Switch statement/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Switch statement/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/The main method/Print  Hello, Java/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The main method/Print  Hello, Java/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/The main method/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The main method/Theory/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/The main method/Who is the main/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/The main method/Who is the main/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+    <list default="true" id="a8bc4865-0656-46ee-9747-fbc983238c9e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/Adding values/JavaAcademyJetBrains.Topics-Arrays_as_parameters-Adding_values.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/Adding values/JavaAcademyJetBrains.Topics-Arrays_as_parameters-Adding_values.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/Get first and last elements/JavaAcademyJetBrains.Topics-Arrays_as_parameters-Get_first_and_last_elements.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/Get first and last elements/JavaAcademyJetBrains.Topics-Arrays_as_parameters-Get_first_and_last_elements.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/How to invoke the method/JavaAcademyJetBrains.Topics-Arrays_as_parameters-How_to_invoke_the_method.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/How to invoke the method/JavaAcademyJetBrains.Topics-Arrays_as_parameters-How_to_invoke_the_method.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/The declaration of the sumAll method/JavaAcademyJetBrains.Topics-Arrays_as_parameters-The_declaration_of_the_sumAll_method.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/The declaration of the sumAll method/JavaAcademyJetBrains.Topics-Arrays_as_parameters-The_declaration_of_the_sumAll_method.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/Theory/JavaAcademyJetBrains.Topics-Arrays_as_parameters-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/Theory/JavaAcademyJetBrains.Topics-Arrays_as_parameters-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/Varargs method invocation/JavaAcademyJetBrains.Topics-Arrays_as_parameters-Varargs_method_invocation.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Arrays as parameters/Varargs method invocation/JavaAcademyJetBrains.Topics-Arrays_as_parameters-Varargs_method_invocation.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Calculator with four methods/JavaAcademyJetBrains.Topics-Functional_decomposition-Calculator_with_four_methods.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Calculator with four methods/JavaAcademyJetBrains.Topics-Functional_decomposition-Calculator_with_four_methods.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Create a full name/JavaAcademyJetBrains.Topics-Functional_decomposition-Create_a_full_name.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Create a full name/JavaAcademyJetBrains.Topics-Functional_decomposition-Create_a_full_name.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Decompose a math function/JavaAcademyJetBrains.Topics-Functional_decomposition-Decompose_a_math_function.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Decompose a math function/JavaAcademyJetBrains.Topics-Functional_decomposition-Decompose_a_math_function.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/How to improve a compound program/JavaAcademyJetBrains.Topics-Functional_decomposition-How_to_improve_a_compound_program.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/How to improve a compound program/JavaAcademyJetBrains.Topics-Functional_decomposition-How_to_improve_a_compound_program.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Roots of quadratic equation/JavaAcademyJetBrains.Topics-Functional_decomposition-Roots_of_quadratic_equation.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Roots of quadratic equation/JavaAcademyJetBrains.Topics-Functional_decomposition-Roots_of_quadratic_equation.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Theory/JavaAcademyJetBrains.Topics-Functional_decomposition-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Theory/JavaAcademyJetBrains.Topics-Functional_decomposition-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Why decompose a program/JavaAcademyJetBrains.Topics-Functional_decomposition-Why_decompose_a_program.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Functional decomposition/Why decompose a program/JavaAcademyJetBrains.Topics-Functional_decomposition-Why_decompose_a_program.test.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,24 +81,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Edu.Yaml.Migrate": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Developer/JavaAcademyJetBrains",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "show.inlinked.gradle.project.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Developer/JavaAcademyJetBrains&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.inlinked.gradle.project.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
