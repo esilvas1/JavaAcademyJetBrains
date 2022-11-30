@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8bc4865-0656-46ee-9747-fbc983238c9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/src/cinema/Cinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/src/cinema/Cinema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/The declaration of the sumAll method/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/The declaration of the sumAll method/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs method invocation/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs method invocation/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four methods/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Create a full name/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Decompose a math function/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/How to improve a compound program/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/How to improve a compound program/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Roots of quadratic equation/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Roots of quadratic equation/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Theory/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Functional decomposition/Why decompose a program/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-    </list>
+    <list default="true" id="a8bc4865-0656-46ee-9747-fbc983238c9e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,7 +138,7 @@
       <workItem from="1669477306793" duration="3434000" />
       <workItem from="1669509231565" duration="7119000" />
       <workItem from="1669598646201" duration="1275000" />
-      <workItem from="1669728388025" duration="10601000" />
+      <workItem from="1669728388025" duration="10817000" />
     </task>
     <servers />
   </component>
