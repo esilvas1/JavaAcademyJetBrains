@@ -41,10 +41,6 @@ public class Cinema {
 
         String[][] matrix = new String[rows + 1][columns + 1];
 
-        //print the matrix
-        System.out.println();
-        System.out.println("Cinema:");
-
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++){
                 if (i == 0 && j == 0) {
@@ -63,6 +59,7 @@ public class Cinema {
 
     public static void printMatrix(String[][] matrix) {
         System.out.println();
+        System.out.println("Cinema:");
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[i].length; j++) {
                 System.out.print(matrix[i][j] + " ");
@@ -84,12 +81,11 @@ public class Cinema {
 
 
     public static void buyTicket(String[][] matrix) {
-        int rows = matrix.length;
-        int columns = matrix[0].length;
+        int rows = matrix.length - 1;
+        int columns = matrix[0].length - 1;
 
         Scanner scanner = new Scanner(System.in);
 
-        //values of the tickets
         System.out.println();
         System.out.println("Enter a row number: ");
         System.out.print("> ");
@@ -110,10 +106,9 @@ public class Cinema {
             System.out.print("> ");
             seat = scanner.nextInt();
         }
+        matrix[row][seat] = "B";
         System.out.println("Ticket price: $" + TicketValue(row, rows, columns));
         System.out.println();
-
-
     }
 
 }//class
