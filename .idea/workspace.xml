@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8bc4865-0656-46ee-9747-fbc983238c9e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Menu, please/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Menu, please/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/src/cinema/Cinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/src/cinema/Cinema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/test/CinemaTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/test/CinemaTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +142,7 @@
       <workItem from="1669509231565" duration="7119000" />
       <workItem from="1669598646201" duration="1275000" />
       <workItem from="1669728388025" duration="10817000" />
-      <workItem from="1669814103661" duration="63000" />
+      <workItem from="1669814103661" duration="3383000" />
     </task>
     <servers />
   </component>
