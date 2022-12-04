@@ -1,0 +1,8 @@
+content:
+- Theory
+- Where NPE may occur
+- Unknown input
+- Return empty string when argument is null
+- When NPE cannot occur
+- Where NPE might occur
+- Avoid NPE with strings
