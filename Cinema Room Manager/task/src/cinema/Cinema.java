@@ -13,7 +13,7 @@ public class Cinema {
             option  = optionMenu();
         }
 
-    }//main
+    }
 
     public static int TicketValue(int row, int rows, int columns) {
         int value = 0;
