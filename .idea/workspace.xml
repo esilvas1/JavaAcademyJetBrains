@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a8bc4865-0656-46ee-9747-fbc983238c9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +141,9 @@
       <workItem from="1669509231565" duration="7119000" />
       <workItem from="1669598646201" duration="1275000" />
       <workItem from="1669728388025" duration="10817000" />
-      <workItem from="1669814103661" duration="3383000" />
+      <workItem from="1669814103661" duration="4048000" />
+      <workItem from="1670246514937" duration="9000" />
+      <workItem from="1670246541243" duration="15000" />
     </task>
     <servers />
   </component>
