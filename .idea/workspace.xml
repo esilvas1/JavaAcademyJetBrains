@@ -5,12 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8bc4865-0656-46ee-9747-fbc983238c9e" name="Changes" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Digits from 0 to 9 backwards/JavaAcademyJetBrains.Topics-Printing_data-Digits_from_0_to_9_backwards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Digits from 0 to 9 backwards/JavaAcademyJetBrains.Topics-Printing_data-Digits_from_0_to_9_backwards.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Digits from 0 to 9 backwards/JavaAcademyJetBrains.Topics-Printing_data-Digits_from_0_to_9_backwards.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/From 0 to 4/JavaAcademyJetBrains.Topics-Printing_data-From_0_to_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/From 0 to 4/JavaAcademyJetBrains.Topics-Printing_data-From_0_to_4.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/From 0 to 4/JavaAcademyJetBrains.Topics-Printing_data-From_0_to_4.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Stars/JavaAcademyJetBrains.Topics-Printing_data-Stars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Stars/JavaAcademyJetBrains.Topics-Printing_data-Stars.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Stars/JavaAcademyJetBrains.Topics-Printing_data-Stars.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/The result of a Tic-Tac-Toe game/JavaAcademyJetBrains.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/The result of a Tic-Tac-Toe game/JavaAcademyJetBrains.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/The result of a Tic-Tac-Toe game/JavaAcademyJetBrains.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Theory/JavaAcademyJetBrains.Topics-Printing_data-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Theory/JavaAcademyJetBrains.Topics-Printing_data-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Theory/JavaAcademyJetBrains.Topics-Printing_data-Theory.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
@@ -25,9 +34,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
->>>>>>> 76836054954d5c9880eadfbaa495f91e2b9c9a5b
->>>>>>> 6f6f7e7afe09d0f15af20de5da8984a4cb47f35a
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,20 +185,12 @@
       <workItem from="1669477306793" duration="3434000" />
       <workItem from="1669509231565" duration="7119000" />
       <workItem from="1669598646201" duration="1275000" />
-<<<<<<< HEAD
       <workItem from="1669728388025" duration="10817000" />
       <workItem from="1669814103661" duration="4048000" />
       <workItem from="1670246514937" duration="9000" />
       <workItem from="1670246541243" duration="15000" />
-=======
-      <workItem from="1669728388025" duration="10601000" />
-      <workItem from="1669777755942" duration="514000" />
-<<<<<<< HEAD
       <workItem from="1670107981787" duration="7184000" />
-=======
       <workItem from="1670107981787" duration="6674000" />
->>>>>>> 76836054954d5c9880eadfbaa495f91e2b9c9a5b
->>>>>>> 6f6f7e7afe09d0f15af20de5da8984a4cb47f35a
     </task>
     <servers />
   </component>
