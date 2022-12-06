@@ -9,7 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="JavaAcademyJetBrains.Cinema_Room_Manager-task-build-tmp.main" />
+    <orderEntry type="module" module-name="tmp.JavaAcademyJetBrains.Cinema_Room_Manager-task-build-tmp.main" />
     <orderEntry type="module" module-name="JavaAcademyJetBrains.util.main" />
     <orderEntry type="module" module-name="JavaAcademyJetBrains.util.test" production-on-test="" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
