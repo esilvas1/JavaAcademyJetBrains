@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id=":Cinema_Room_Manager-task-build-tmp:test" external.linked.project.path="$MODULE_DIR$/../../../../../../Cinema Room Manager/task/build/tmp" external.root.project.path="$MODULE_DIR$/../../../../../.." external.system.id="GRADLE" external.system.module.group="JavaAcademyJetBrains" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+<module external.linked.project.id=":Topics-Printing_data-Theory:test" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Printing data/Theory" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="JavaAcademyJetBrains" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <output-test url="file://$MODULE_DIR$/../../../../../../Cinema Room Manager/task/build/tmp/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Theory/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../../../../Cinema Room Manager/task/build/tmp/src/test" />
-    <content url="file://$MODULE_DIR$/../../../../../../Cinema Room Manager/task/build/tmp/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../../../../../Cinema Room Manager/task/build/tmp/test" isTestSource="true" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Theory/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Printing data/Theory/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="tmp.JavaAcademyJetBrains.Cinema_Room_Manager-task-build-tmp.main" />
+    <orderEntry type="module" module-name="JavaAcademyJetBrains.Topics-Printing_data-Theory.main" />
     <orderEntry type="module" module-name="JavaAcademyJetBrains.util.main" />
     <orderEntry type="module" module-name="JavaAcademyJetBrains.util.test" production-on-test="" />
     <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
@@ -26,5 +24,5 @@
     <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.17.2" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.easytesting:fest-util:1.2.5" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="JavaAcademyJetBrains.Cinema_Room_Manager-task-build-tmp.main" />
+  <component name="TestModuleProperties" production-module="JavaAcademyJetBrains.Topics-Printing_data-Theory.main" />
 </module>
