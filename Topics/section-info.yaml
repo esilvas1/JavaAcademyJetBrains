@@ -9,4 +9,8 @@ content:
 - What is an exception
 - NPE
 - The while and do-while loops
+<<<<<<< HEAD
+- Array exceptions
+=======
 - Printing data
+>>>>>>> 5650e4b93a0a38b0c135e96fa4620f7df2177fb0

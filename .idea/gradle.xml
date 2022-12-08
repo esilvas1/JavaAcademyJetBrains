@@ -17,6 +17,17 @@
             <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/generated/sources/headers/java" />
             <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests" />
             <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results" />
+<<<<<<< HEAD
+            <option value="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/A line that throws an exception" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Calculate Square" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Determine an exception" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Explore the standard class library" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Array exceptions/Where an exception occurs" />
+=======
+>>>>>>> 5650e4b93a0a38b0c135e96fa4620f7df2177fb0
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method" />
