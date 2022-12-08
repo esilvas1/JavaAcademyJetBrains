@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8bc4865-0656-46ee-9747-fbc983238c9e" name="Changes" comment="">
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
@@ -21,13 +20,32 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Errors/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Errors/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Menu, please/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/Menu, please/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java/main/cinema/Cinema.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java/main/cinema/Cinema.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java/test/CinemaTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java/test/CinemaTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/classes/CinemaTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/classes/CinemaTests.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/TEST-CinemaTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/TEST-CinemaTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/src/cinema/Cinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cinema Room Manager/task/src/cinema/Cinema.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs method invocation/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/Arrays as parameters/Varargs method invocation/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/What is an exception/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/What is an exception/Theory/task-remote-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
->>>>>>> 76836054954d5c9880eadfbaa495f91e2b9c9a5b
->>>>>>> 6f6f7e7afe09d0f15af20de5da8984a4cb47f35a
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +99,7 @@
     <setting file="file://$PROJECT_DIR$/Topics/NPE/Avoid NPE with strings/src/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Topics/NPE/Return empty string when argument is null/src/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Topics/NPE/Unknown input/src/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Topics/Relational operators/Exactly one parameter is positive/src/Main.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Topics/Switch statement/From string to a number/src/Main.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -116,7 +135,7 @@
     &quot;show.inlinked.gradle.project.popup&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Cinema">
     <configuration name="Cinema" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cinema.Cinema" />
       <module name="JavaAcademyJetBrains.Cinema_Room_Manager-task.main" />
@@ -146,8 +165,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Cinema" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -179,20 +198,12 @@
       <workItem from="1669477306793" duration="3434000" />
       <workItem from="1669509231565" duration="7119000" />
       <workItem from="1669598646201" duration="1275000" />
-<<<<<<< HEAD
       <workItem from="1669728388025" duration="10817000" />
       <workItem from="1669814103661" duration="4048000" />
       <workItem from="1670246514937" duration="9000" />
       <workItem from="1670246541243" duration="15000" />
-=======
-      <workItem from="1669728388025" duration="10601000" />
-      <workItem from="1669777755942" duration="514000" />
-<<<<<<< HEAD
       <workItem from="1670107981787" duration="7184000" />
-=======
       <workItem from="1670107981787" duration="6674000" />
->>>>>>> 76836054954d5c9880eadfbaa495f91e2b9c9a5b
->>>>>>> 6f6f7e7afe09d0f15af20de5da8984a4cb47f35a
     </task>
     <servers />
   </component>
